@@ -1,0 +1,20 @@
+|Főoldal
+	-Bemutatkozás
+	-Kapcsolat
+	-GYIK
+	-Értékelések
+
+	|Foglalás
+		|Ha nem vagy belépve|Login
+		|Ha be vagy lépve|Foglalási felület	
+	|Login
+		|Bérelési felület
+			|Foglalás
+				|Foglalási felület
+		|Bérbeadó felület
+		|Admin felület
+
+	|Regisztráció
+		|Bérelési felület
+		|Bérbeadó felület
+	
